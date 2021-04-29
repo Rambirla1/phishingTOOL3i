@@ -1,8 +1,7 @@
 #!/bin/bash
 # phishingTOOL3i v1.6
 # Coded by: Rambirla0371
-
-
+# github : https://github.com/rambirla0371/phishingTOOL3i.git
 
 
 trap 'printf "\n";stop;exit 1' 2
